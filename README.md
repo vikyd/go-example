@@ -15,3 +15,9 @@ go build
 # run
 go run main.go
 ```
+
+# Debug
+
+VSCode: `.vscode/launch.json`
+
+GoLand: `.idea`
